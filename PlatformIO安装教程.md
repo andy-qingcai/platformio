@@ -12,7 +12,7 @@
 
      首先你得有个VScode，然后在扩展这里搜索点击安装就可以了
 
-     ![image-20211214154744756](C:\Users\liu84\AppData\Roaming\Typora\typora-user-images\image-20211214154744756.png)
+     ![image-20211214154744756](https://github.com/andy-qingcai/platformio/blob/main/picture/image-20211214154744756.png)
 
  2.  官方包安装(程序复杂，成功率高)
 
